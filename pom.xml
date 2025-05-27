@@ -8,7 +8,7 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aviaandina.eureka.server.app</groupId>
+	<groupId>com.viaandina.eureka.server.app</groupId>
 	<artifactId>viaandina-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>viaandina-eureka-server</name>
